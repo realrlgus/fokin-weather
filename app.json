@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "My first React Native App!\nGet current Location and view current Weather",
+    "githubUrl": "https://github.com/realrlgus/fokin-weather"
   }
 }
