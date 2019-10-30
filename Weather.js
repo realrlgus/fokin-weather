@@ -8,7 +8,7 @@ const weatherOptions = {
   Haze: {
     iconName: "weather-fog",
     gradient: ["#bdc3c7", "#2c3e50"],
-    title: "안개가 꼇어요",
+    title: "안개가 꼈어요",
     subtitle: "운전 및 이동시 주의하세요!"
   },
   Thunderstorm: {
@@ -56,26 +56,26 @@ const weatherOptions = {
   Mist: {
     iconName: "weather-fog",
     gradient: ["#4DA0B0", "#D39D38"],
-    title: "안개가 꼇어요",
+    title: "안개가 꼈어요",
     subtitle: "운전 및 이동시 주의하세요!"
   },
   Smoke: {
     iconName: "weather-fog",
     gradient: ["#bdc3c7", "#2c3e50"],
-    title: "안개가 꼇어요",
+    title: "안개가 꼈어요",
     subtitle: "운전 및 이동시 주의하세요!"
   },
 
   Dust: {
     iconName: "weather-fog",
     gradient: ["#4DA0B0", "#D39D38"],
-    title: "안개가 꼇어요",
+    title: "안개가 꼈어요",
     subtitle: "운전 및 이동시 주의하세요!"
   },
   Fog: {
     iconName: "weather-fog",
     gradient: ["#bdc3c7", "#2c3e50"],
-    title: "안개가 꼇어요",
+    title: "안개가 꼈어요",
     subtitle: "운전 및 이동시 주의하세요!"
   },
   Sand: {
